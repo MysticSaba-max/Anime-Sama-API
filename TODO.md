@@ -1,0 +1,16 @@
+- [X] Search
+- [X] Download
+- [X] Play
+- [X] Name Episode
+- [X] All language
+- [ ] Order Episode
+- [ ] Tests
+- [ ] Fallback on other players
+- [ ] Menu
+- [ ] Auto-download at start-up & queue download
+- [ ] Planning
+- [ ] Ani-skip
+- [ ] Resume play (history)
+- [ ] MAL sync
+- [ ] Play from download
+- [ ] Discord presence
